@@ -1,3 +1,4 @@
+// Strategy Pattern -> https://refactoring.guru/design-patterns/strategy
 
 interface PaymentStrategy {
     pay(): string;
